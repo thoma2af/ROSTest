@@ -13,7 +13,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='robotics',
+    maintainer='thoma2af',
     maintainer_email='thoma2af@dukes.jmu.edu',
     description='TODO: Package description',
     license='TODO: License declaration',
